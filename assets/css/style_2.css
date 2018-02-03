@@ -11,7 +11,7 @@
 	margin-bottom: 16px;	
 }
 
-.form_box_lg{
+.form_box_lrg{
 	width: 591px;
 	padding-left: 6px;
 	min-height: 180px;
@@ -40,7 +40,7 @@
 		width: 100%;
 	}
 
-	.form_box_lg{
+	.form_box_lrg{
 		width: 100%;
 	}
 
